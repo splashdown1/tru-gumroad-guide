@@ -17,6 +17,15 @@ TRU ships with a self-teaching pipeline any AI assistant (or you, or your kid) c
 
 It ships pre-loaded and already taught — 244,395 rows indexed, every answer grounded with source IDs — and it keeps growing from whatever you feed it. This is the pack we used to build itself: the same teaching pipeline, audit tools, and engineering discipline documented inside it.
 
+## WHAT YOU CAN DO WITH TRU
+
+- **Read books offline** — access your entire library without internet. Add any text-based book, novel, reference, or document. Read, search, and study at your own pace.
+- **Study Scripture offline** — the King James Bible is built in. Read passages, search by topic, cross-reference, and study without ever connecting online.
+- **Play learning games** — interactive tools and games that help you learn, remember, and explore ideas—all running locally.
+- **Ask questions and get answers** — with sources. Every answer cites where it came from in your local knowledge base.
+- **Learn practical skills** — access the Reboot Field Manual for step-by-step guidance on everything from water safety to tool-making.
+- **Build your own knowledge universe** — fold in your notes, research, family records, or specialized knowledge. TRU learns from what matters to you.
+
 ## WHAT'S IN THE BOX
 
 - **TRU Full Universe (641 MB)** — the complete system: main engine, indexed 244k-row brain, teaching pipeline (teach / train / watch), library, training shelves, rollback copies, and the experimental companion toolset (claim registry, contradiction mapping, memory consolidation, planning sandbox — 10+ tools, all offline).
@@ -31,6 +40,8 @@ It ships pre-loaded and already taught — 244,395 rows indexed, every answer gr
 
 - **Two standalone engine builds** — TRU Holographic Sovereign and TRU LOGOS-Lite as single HTML files: double-click, they run.
 
+- **Pre-loaded libraries** — King James Bible, classics, public reference materials, and the complete Reboot Field Manual.
+
 Every archive ships with SHA-256 checksums, manifests, and a portal entry point. The whole release passed a 105-point verification before this page existed, and the flagship build passes its golden-question and reading regression suites on demand.
 
 ## WHY TRU (NO HYPE — READ BEFORE BUYING)
@@ -42,6 +53,8 @@ Every archive ships with SHA-256 checksums, manifests, and a portal entry point.
 **Evidence-first.** Answers cite local sources with stable IDs; where evidence is missing, TRU says GAP instead of inventing.
 
 **Built to be audited.** Checksums, manifests, rollback copies, and regression suites are included — verify everything yourself.
+
+**Your library, forever.** Read books, study Scripture, access reference materials—all offline, with no subscriptions, no expiration, no account needed.
 
 ## HONEST LIMITS
 
@@ -212,6 +225,14 @@ Yes, as a local study and discussion tool. Ask for age, source, format, examples
 ### Can I use it to rebuild practical capability?
 
 That is one of the intended uses of the Reboot Field Manual. Start with safe, small, reversible tests; document the result; get qualified help for dangerous work; and do not scale a process merely because one trial succeeded.
+
+### Can I read books and the Bible offline?
+
+Yes. TRU includes the King James Bible and a library of public domain classics. You can also add your own books, texts, and reference materials to your local knowledge base. Everything reads and searches offline—no internet required.
+
+### Are there games included?
+
+Yes. TRU includes interactive learning games and tools that run completely offline. These are designed to help you learn, remember, and explore ideas using your local knowledge base.
 
 ### Where are the application files in this repository?
 
