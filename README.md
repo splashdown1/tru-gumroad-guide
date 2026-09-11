@@ -1,40 +1,65 @@
 # TRU — Truth Resonance Understanding
 
-## A private, offline-first knowledge and reasoning companion
+## The offline AI universe that builds itself
 
-TRU is a self-contained tool for asking questions, checking information, studying Scripture, and working through practical problems without depending on a cloud account or live AI service.
+One download. Yours forever. No subscription, no account, no internet — ever.
 
-The companion download supplied with this guide runs locally in a modern web browser. It does not require an account, API key, login, subscription, or internet connection for its offline functions.
+Most AI products rent you a connection to someone else's server. TRU is the opposite: a complete knowledge universe that lives on your machine, learns from your files, and answers with sources — fully offline, forever. Drop files in a folder. TRU folds them into its brain. That's the whole trick, and nobody can take it away from you.
 
-This repository is only the public user guide. It contains no application files, data dumps, or HTML downloads.
+## THE DRAW: USE AI TO BUILD YOUR OWN UNIVERSE
 
-## What TRU does
+TRU ships with a self-teaching pipeline any AI assistant (or you, or your kid) can run:
 
-Ask questions in ordinary language. TRU can:
+1. **Put files in the inbox** — notes, books, research, exported PDFs, anything text-based.
+2. **Run the trainer** — one command: `python3 train_tru.py --once` (or leave the watcher running and it learns on a cycle).
+3. **The brain grows** — new knowledge is folded into a local 244,000-row indexed graph, deduplicated, checkpointed, and reversible.
+4. **Open TRU.html** — ask anything. Every answer cites its local sources. No API key. No telemetry. No licence server, because there isn't one.
 
-- look up information from its embedded knowledge base;
-- retrieve passages from the included King James Version text;
-- return Strong’s lexicon and dictionary information;
-- explain concepts and define terms;
-- calculate simple expressions;
-- remember and recall notes in the current browser session;
-- show a verdict and source label where the route supports it;
-- identify common question forms and respond to the kind of answer requested;
-- provide practical, staged process guidance through the Reboot Field Manual.
+It ships pre-loaded and already taught — 244,395 rows indexed, every answer grounded with source IDs — and it keeps growing from whatever you feed it. This is the pack we used to build itself: the same teaching pipeline, audit tools, and engineering discipline documented inside it.
 
-TRU is deterministic in its offline routing. It is not a general-purpose cloud chatbot and does not pretend that fluent wording proves accuracy.
+## WHAT'S IN THE BOX
 
-## Start here
+- **TRU Full Universe (641 MB)** — the complete system: main engine, indexed 244k-row brain, teaching pipeline (teach / train / watch), library, training shelves, rollback copies, and the experimental companion toolset (claim registry, contradiction mapping, memory consolidation, planning sandbox — 10+ tools, all offline).
 
-1. Download the TRU companion file from your Gumroad purchase.
-2. Open it in a current browser such as Chrome, Edge, Firefox, or Safari.
-3. Type a question in the chat box.
-4. Read the answer, verdict, source label, and any stated uncertainty.
-5. Ask a narrower follow-up when you need a procedure, comparison, quotation, or source check.
+- **TRU AI Research Guide (31 MB)** — offline library of AI, agent, evaluation, and safety engineering.
 
-The file can be kept locally and used without an internet connection. Browser speech features may depend on the browser and device; typed questions and the offline text engine do not require them.
+- **TRU Law (28 MB)** — offline legal-research orientation: founding documents, legal terms, research protocol.
 
-## How to ask good questions
+- **TRU Medical (21 MB)** — offline health-research orientation: symptoms, triage, red flags, first aid.
+
+- **TRU Occupations (28 MB)** — offline careers library: skill paths and safety across 30+ trades and professions.
+
+- **Two standalone engine builds** — TRU Holographic Sovereign and TRU LOGOS-Lite as single HTML files: double-click, they run.
+
+Every archive ships with SHA-256 checksums, manifests, and a portal entry point. The whole release passed a 105-point verification before this page existed, and the flagship build passes its golden-question and reading regression suites on demand.
+
+## WHY TRU (NO HYPE — READ BEFORE BUYING)
+
+**True AI independence.** No account, no cloud, no revocation. If the machine can read a file, TRU can learn from it — and nobody upstream can see or undo what it learned.
+
+**Air-gapped & unmonetized.** No telemetry. Your questions never leave the machine.
+
+**Evidence-first.** Answers cite local sources with stable IDs; where evidence is missing, TRU says GAP instead of inventing.
+
+**Built to be audited.** Checksums, manifests, rollback copies, and regression suites are included — verify everything yourself.
+
+## HONEST LIMITS
+
+The seed corpus is largely public domain (classics, the King James Bible, US founding documents, public reference captures). That's the fertiliser. The product is the system: the pipeline, the indexed brain, the offline engines, and the packaging — tested and verified. Add any and all knowledge you come across packaged in an insertable module and all accessible without internet.
+
+TRU is a research and orientation aid, not a professional. The Law pack is not a lawyer; the Medical pack is not a doctor.
+
+**Requirements:** a modern browser (Chrome/Edge/Firefox) for the engines; Python 3 for the teaching pipeline. Runs on an ordinary laptop. Works with no internet connection at all. Or any cellphone with the lite versions.
+
+## OWNERSHIP
+
+Once you download it, it's yours — your copy, your machine, your universe. There is no licence server to reach it and nothing to renew. Includes personal setup help by email if you want a hand teaching it your first folder.
+
+Own your intelligence. Own your data. Secure your copy of the TRU project today.
+
+---
+
+## How to ask good questions in TRU
 
 TRU recognises the major question forms:
 
@@ -90,7 +115,7 @@ List inputs, output, cost, likely failures, uncertainty, and which method is saf
 
 ## The Reboot Field Manual
 
-The Reboot Field Manual is not a magic “rebuild civilisation instantly” button. It is a staged path for restoring capability in the right order:
+The Reboot Field Manual is not a magic "rebuild civilisation instantly" button. It is a staged path for restoring capability in the right order:
 
 1. **Stabilise life** — water, sanitation, shelter, food, heat, first aid, and trusted records.
 2. **Make knowledge durable** — measurements, writing, paper or boards, ink, maps, and duplicate records.
@@ -106,21 +131,21 @@ The Reboot Field Manual is not a magic “rebuild civilisation instantly” butt
 How do we make ink?
 ```
 
-TRU can give a simple carbon-ink process using soot or fully charred wood, a binder, grinding, filtering, a small test batch, and a basic acceptance test. It also states the important limits: avoid treated wood, smoke inhalation, unknown pigments, skin use, food use, and archival claims.
+TRU can give a simple carbon-ink process using soot or fully charred wood, a binder, grinding, filtering, a small test batch, and a basic acceptance test. It also states the important limits.
 
 ```text
 How do we desalinate salt water?
 ```
 
-TRU can explain thermal distillation in plain terms: separate saline feed water from steam, condensate, and concentrated brine; use clean collection surfaces; prevent splashing and cross-contamination; collect only condensate; and test the result. It can also explain a small solar still and its limitations.
+TRU can explain thermal distillation in plain terms: separate saline feed water from steam, condensate, and concentrated brine; use clean collection surfaces; prevent splashing and cross-contamination.
 
 ```text
 How do we make water safe?
 ```
 
-TRU distinguishes microbial treatment from salt or chemical removal. Boiling can address many biological hazards, but boiling does not remove salt or every chemical contaminant. Water that looks clear is not automatically safe to drink.
+TRU distinguishes microbial treatment from salt or chemical removal. Boiling can address many biological hazards, but boiling does not remove salt or every chemical contaminant.
 
-For any real water emergency, use local public-health guidance and testing where available. Do not experiment with fuel-contaminated, solvent-contaminated, pesticide-contaminated, sewage-contaminated, or industrially contaminated water.
+For any real water emergency, use local public-health guidance and testing where available. Do not experiment with fuel-contaminated, solvent-contaminated, pesticide-contaminated, or sewage-contaminated water.
 
 ## Local memory
 
@@ -143,7 +168,7 @@ TRU is:
 - not accreditation, licensure, or proof of professional competence;
 - not a guarantee that every embedded record is current or correct.
 
-For health, law, finance, elections, safety-critical work, crisis situations, and drinking-water decisions, use TRU for orientation and questions to take to a qualified local professional or trusted human authority. If there is immediate danger, contact local emergency services.
+For health, law, finance, elections, safety-critical work, crisis situations, and drinking-water decisions, use TRU for orientation and questions to take to a qualified local professional or trusted advisor.
 
 ## Evidence discipline
 
@@ -168,7 +193,7 @@ The companion includes three runtime modes where available:
 - **HYBRID** — local first, with a gateway fallback when local evidence is insufficient.
 - **ONLINE** — gateway first, with local fallback when unavailable.
 
-Use **OFFLINE** when privacy, portability, or independence matters. The standalone file’s core functions are designed to work without a network connection.
+Use **OFFLINE** when privacy, portability, or independence matters. The standalone file's core functions are designed to work without a network connection.
 
 ## Frequently asked questions
 
@@ -182,15 +207,15 @@ No. The offline companion primarily retrieves, routes, and composes from local r
 
 ### Can I use it for teaching?
 
-Yes, as a local study and discussion tool. Ask for age, source, format, examples, practice, evidence, and uncertainty. Adapt all material to the learner, local curriculum, accessibility needs, culture, and safeguarding requirements.
+Yes, as a local study and discussion tool. Ask for age, source, format, examples, practice, evidence, and uncertainty. Adapt all material to the learner, local curriculum, accessibility needs, and cultural context.
 
 ### Can I use it to rebuild practical capability?
 
-That is one of the intended uses of the Reboot Field Manual. Start with safe, small, reversible tests; document the result; get qualified help for dangerous work; and do not scale a process merely because it sounds plausible.
+That is one of the intended uses of the Reboot Field Manual. Start with safe, small, reversible tests; document the result; get qualified help for dangerous work; and do not scale a process merely because one trial succeeded.
 
 ### Where are the application files in this repository?
 
-They are not here. This public repository intentionally contains only this user guide. The companion download is distributed separately through the Gumroad product.
+They are not here. This public repository intentionally contains only this user guide. The companion download and all packaged universes are distributed separately through the Gumroad product at [splashdown5.gumroad.com/l/xwpjfn](https://splashdown5.gumroad.com/l/xwpjfn).
 
 ## Licence
 
